@@ -1,0 +1,31 @@
+
+{
+  "project": "MYSTO AI STUDIO",
+  "version": "1.0.0",
+  "language": "id",
+  "timezone": "Asia/Jakarta",
+  "content": {
+    "platforms": [
+      "youtube_shorts",
+      "tiktok"
+    ],
+    "format": "9:16",
+    "duration_seconds": {
+      "minimum": 60,
+      "maximum": 90
+    },
+    "style": "cinematic_stickman_animation",
+    "character": "MYSTO"
+  },
+  "schedule": [
+    "08:00",
+    "13:00",
+    "19:00"
+  ],
+  "automation": {
+    "enabled": true,
+    "auto_script": true,
+    "auto_video": true,
+    "auto_publish": false
+  }
+}
