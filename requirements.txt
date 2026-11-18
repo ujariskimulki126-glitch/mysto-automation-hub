@@ -1,5 +1,4 @@
 
-google-genai
+google-genai>=3,<4
 Pillow
 edge-tts
-
